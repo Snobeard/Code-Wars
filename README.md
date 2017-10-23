@@ -11,6 +11,7 @@
 - You may then continue to work with your partner or part ways to work independently. You should now move on to attempting to write the solution on Code Wars.
 - You'll know your solution is correct when all of the tests pass and turn green. Only then can you add your solution to your repo.
 
+
 ##### The daily challenge will be posted at 5:00 p.m. every day and will be due by the following day at 1:59 p.m. Plan to focus on this task every day after class between 5 p.m. and 6 p.m.
 
 ##### Friday assignments should be completed independently (or with classmates if you plan to meet up) over the weekend and submitted by 1:59 p.m. on Monday.
