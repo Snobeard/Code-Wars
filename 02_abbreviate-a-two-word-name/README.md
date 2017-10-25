@@ -8,5 +8,5 @@ The output should be two capital letters with a dot seperating them.
 
 #### Examples
 
-- Sam Harris => S.H
-- Patrick Feeney => P.F
+- `'Sam Harris'` => `'S.H'`
+- `'Patrick Feeney'` => `'P.F'`
