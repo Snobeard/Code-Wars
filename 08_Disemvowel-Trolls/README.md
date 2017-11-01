@@ -1,6 +1,5 @@
 ## <a href="https://www.codewars.com/kata/disemvowel-trolls">Disemvowel Trolls</a>
 
-#### Disemvowel Trolls
 ###### Task
 Trolls are attacking your comment section!
 
